@@ -10,8 +10,14 @@
   * Build a complete neural network with a hidden layer
   * Make a good use of a non-linear unit
   * Implemented forward propagation and backpropagation, and trained a neural network
-  * See the impact of varying the hidden layer size, including overfitting.
-
+  * See the impact of varying the hidden layer size, including overfitting
+  
+### * Deep Neural Network for Binary Classification
+  * Use non-linear units like ReLU to improve your model
+  * Build a deeper neural network (with more than 1 hidden layer)
+  * Implement an easy-to-use neural network class
+  * Apply the deep nerual network to a image classification
+  
 ### * Initialization, Regularization, and Gradient Checking
   * Initialization: 
       * Different initialization lead to different result
