@@ -6,7 +6,11 @@
   * Implement each function separately: initialize(), propagate(), optimize(). Then built a model()
   * Tuning the learning rate (which is an example of a "hyperparameter") can make a big difference to the algorithm.
   
-* 
+### * Shallow Neural Network for Binary Classification
+  * Build a complete neural network with a hidden layer
+  * Make a good use of a non-linear unit
+  * Implemented forward propagation and backpropagation, and trained a neural network
+  * See the impact of varying the hidden layer size, including overfitting.
 
 ### * Initialization, Regularization, and Gradient Checking
   * Initialization: 
