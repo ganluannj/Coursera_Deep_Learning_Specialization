@@ -1,9 +1,13 @@
 # Deep Learning Practice
 ### Programming assignment for Deep Learning Specialization on Coursera
 
-* Logistic Regression
-  * Proprocessing 
-    
+### * Logistic Regression
+  * Proprocessing the dataset is imporant (reshape the data so that it can fit into the model)
+  * Implement each function separately: initialize(), propagate(), optimize(). Then built a model()
+  * Tuning the learning rate (which is an example of a "hyperparameter") can make a big difference to the algorithm.
+  
+* 
+
 ### * Initialization, Regularization, and Gradient Checking
   * Initialization: 
       * Different initialization lead to different result
