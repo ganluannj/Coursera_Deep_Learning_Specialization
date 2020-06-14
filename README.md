@@ -1,6 +1,6 @@
-# Deep_Learning_Practice
-Programming assignment for Deep Learning Specialization on Coursera
-* Initialization, Regularization, and Gradient Checking
+### Deep Learning Practice
+## Programming assignment for Deep Learning Specialization on Coursera
+## * Initialization, Regularization, and Gradient Checking
   * Initialization: 
       * Different initialization lead to different result
       * Random initialization is used to break symmetry and make sure different hidden units can learn different things
