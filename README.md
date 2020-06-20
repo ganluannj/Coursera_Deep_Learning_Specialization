@@ -32,7 +32,7 @@
       * Gradient checking verifies closeness between the gradients from backpropagation and the numerical approximation of the gradient (computed using forward propagation).
       * Gradient checking is slow, so we don't run it in every iteration of training. You would usually run it only to make sure your code is correct, then turn it off and use backprop for the actual learning process.
 
-* Optimization Methods
+### * Optimization Methods
   * Mini-batch gradient descent
     * The difference between gradient descent, mini-batch gradient descent and stochastic gradient descent is the number of examples you use to perform one update step.
     * You have to tune a learning rate hyperparameter $\alpha$.
