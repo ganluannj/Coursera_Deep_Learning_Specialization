@@ -45,4 +45,13 @@
     * It has relatively low memory requirements (though higher than gradient descent and gradient descent with momentum)
     * It usually works well even with little tuning of hyperparameters (except learning rate $\alpha$).
       
-
+### * Build Neural Networks with Tensorflow
+  * Tensorflow is a programming framework used in deep learning. 
+  * The two main object classes in tensorflow are Tensors and Operators. 
+  * When you code in tensorflow you have to take the following steps:
+    * Create a graph containing Tensors (Variables, Placeholder...) and Operators (tf.matmul, tf.add, ...)
+    * Create a session
+    * Initialize the session
+    * Run the session to excute the graph
+  * You can excute the graph multiple times
+  * The backpropagation and optimization is automatically done when running the session on the 'optimizer' object. 
